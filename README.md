@@ -228,7 +228,7 @@ myproject/
 To show project screenshot in README:
 
 ```markdown
-![Demo Screenshot](static/Screenshot%202025-09-09%20160638.png)
+![Demo Screenshot](static/demo.png)
 ```
 
 > Save your screenshot as `static/demo.png` inside the project and GitHub will display it.
